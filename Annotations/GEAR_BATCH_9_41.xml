@@ -1,0 +1,26 @@
+<annotation>
+  <folder>batch1</folder>
+  <filename>GEAR_BATCH_9_41</filename>
+  <path>C:\Users\Programming\Documents\batch1\GEAR_BATCH_9_41.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>432</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gear</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>251</xmin>
+      <ymin>168</ymin>
+      <xmax>306</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+</annotation>

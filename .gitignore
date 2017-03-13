@@ -1,0 +1,11 @@
+# ignore those massive png files
+*.png
+
+# VOC stuff we're not using
+ImageSets/
+SegmentationClass/
+SegmentationObject/
+
+# garbage
+.DS_Store
+*.swp

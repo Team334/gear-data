@@ -1,0 +1,37 @@
+<annotation>
+<filename>train_11_frames/out22.jpg</filename>
+<folder>GearData</folder>
+<object>
+<name>gear</name>
+<bndbox>
+<xmax>1595</xmax>
+<xmin>1249</xmin>
+<ymax>656</ymax>
+<ymin>152</ymin>
+</bndbox>
+<difficult>0</difficult>
+<pose>Unspecified</pose>
+</object>
+<object>
+<name>gear</name>
+<bndbox>
+<xmax>900</xmax>
+<xmin>607</xmin>
+<ymax>592</ymax>
+<ymin>236</ymin>
+</bndbox>
+<difficult>0</difficult>
+<pose>Unspecified</pose>
+</object>
+<segmented>0</segmented>
+<size>
+<depth>3</depth>
+<height>1080</height>
+<width>1920</width>
+</size>
+<source>
+<annotation>Team 334 Gear Data</annotation>
+<database>Team334 Gear Detection Database</database>
+<image>August Trollback</image>
+</source>
+</annotation>

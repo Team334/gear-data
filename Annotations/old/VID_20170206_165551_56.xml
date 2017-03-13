@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Gears</folder>
+  <filename>VID_20170206_165551_56.jpg</filename>
+  <path>C:\Users\Robotics\Pictures\Gears\VID_20170206_165551 56.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gear</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>64</xmin>
+      <ymin>5</ymin>
+      <xmax>384</xmax>
+      <ymax>301</ymax>
+    </bndbox>
+  </object>
+</annotation>
